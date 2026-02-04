@@ -4,22 +4,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Privacy Policy for Shabd app.">
     <title>Privacy Policy | Shabd</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Playfair+Display:wght@700&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap"
         rel="stylesheet">
 
     <style>
         :root {
             --primary: #E53935;
+            --primary-dark: #C62828;
             --secondary: #121217;
             --text-main: #1A1A1A;
             --text-muted: #64748b;
             --bg-light: #FBFBFE;
             --white: #FFFFFF;
+            --accent-soft: rgba(229, 57, 53, 0.05);
+            --transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
         }
 
         * {
@@ -33,119 +37,105 @@
             background-color: var(--bg-light);
             color: var(--text-main);
             line-height: 1.8;
-            padding: 40px 20px;
+            padding: 120px 8% 80px;
         }
 
-        /* --- Container --- */
-        .policy-container {
+        header {
+            background: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+            padding: 1rem 8%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+        }
+
+        .logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        .logo span {
+            color: var(--secondary);
+        }
+
+        .container {
             max-width: 800px;
-            margin: 60px auto;
+            margin: 0 auto;
             background: var(--white);
             padding: 60px;
             border-radius: 32px;
-            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.03);
-            border: 1px solid rgba(0, 0, 0, 0.05);
-        }
-
-        /* --- Header --- */
-        .back-link {
-            display: inline-block;
-            margin-bottom: 40px;
-            color: var(--primary);
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.9rem;
-            transition: transform 0.2s;
-        }
-
-        .back-link:hover {
-            transform: translateX(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
         }
 
         h1 {
             font-family: 'Playfair Display', serif;
-            font-size: 3rem;
+            font-size: 2.5rem;
+            margin-bottom: 30px;
             color: var(--secondary);
-            margin-bottom: 10px;
-            line-height: 1.2;
-        }
-
-        .last-updated {
-            color: var(--text-muted);
-            font-size: 0.9rem;
-            margin-bottom: 50px;
-            display: block;
-            font-weight: 300;
-        }
-
-        /* --- Sections --- */
-        section {
-            margin-bottom: 40px;
+            border-bottom: 2px solid var(--accent-soft);
+            padding-bottom: 20px;
         }
 
         h2 {
-            font-size: 1.4rem;
-            color: var(--secondary);
-            margin-bottom: 15px;
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-
-        h2::before {
-            content: "";
-            width: 4px;
-            height: 24px;
-            background: var(--primary);
-            border-radius: 10px;
-            display: inline-block;
+            font-family: 'Playfair Display', serif;
+            font-size: 1.5rem;
+            margin: 40px 0 20px;
+            color: var(--primary);
         }
 
         p {
-            color: #475569;
             margin-bottom: 20px;
-            font-weight: 400;
+            color: var(--text-muted);
         }
 
-        .highlight-box {
-            background: rgba(229, 57, 53, 0.03);
-            border-left: 3px solid var(--primary);
-            padding: 20px;
-            border-radius: 0 12px 12px 0;
-            margin: 30px 0;
-            font-style: italic;
+        ul {
+            margin-bottom: 20px;
+            padding-left: 20px;
+            color: var(--text-muted);
         }
 
-        .contact-card {
-            background: var(--secondary);
-            color: white;
-            padding: 30px;
-            border-radius: 20px;
-            margin-top: 60px;
-            text-align: center;
+        li {
+            margin-bottom: 10px;
         }
 
-        .contact-card a {
-            color: #ff8a80;
-            text-decoration: none;
+        .last-updated {
+            font-size: 0.9rem;
+            color: var(--text-muted);
             font-weight: 600;
+            margin-bottom: 10px;
+            display: block;
         }
 
         footer {
             text-align: center;
-            margin-top: 40px;
-            color: var(--text-muted);
+            margin-top: 60px;
+            padding-top: 40px;
+            border-top: 1px solid #eee;
+            color: #aaa;
             font-size: 0.8rem;
         }
 
-        @media (max-width: 600px) {
-            .policy-container {
-                padding: 30px 20px;
-                margin: 20px auto;
+        @media (max-width: 768px) {
+            body {
+                padding: 100px 5% 40px;
+            }
+
+            .container {
+                padding: 30px;
             }
 
             h1 {
-                font-size: 2.2rem;
+                font-size: 2rem;
             }
         }
     </style>
@@ -153,64 +143,61 @@
 
 <body>
 
-    <div class="policy-container">
-        <a href="index.html" class="back-link">← Back to Home</a>
+    <header>
+        <a href="index.html" class="logo"><span>S</span>habd</a>
+    </header>
 
-        <header>
-            <h1>Privacy Policy</h1>
-            <span class="last-updated">Effective Date: February 04, 2026</span>
-        </header>
+    <div class="container">
+        <span class="last-updated">Last Updated: February 4, 2026</span>
+        <h1>Privacy Policy</h1>
 
-        <section>
-            <p>At <strong>Shabd</strong>, we believe that your privacy is just as important as your education. This
-                policy outlines our commitment to being transparent about how we (don't) handle your data.</p>
+        <p>Welcome to <strong>Shabd</strong>. Your privacy is important to us. This Privacy Policy explains how we
+            collect, use, and protect your information when you use our mobile application.</p>
 
-            <div class="highlight-box">
-                "Our philosophy is simple: Your data belongs on your device, not our servers."
-            </div>
-        </section>
+        <h2>1. Information Collection</h2>
+        <p>Shabd is designed to be an offline-first, privacy-respecting application. We believe in minimal data
+            collection:</p>
+        <ul>
+            <li><strong>Personal Data:</strong> We do not collect any personally identifiable information (PII) such as
+                your name, email address, or phone number.</li>
+            <li><strong>Usage Data:</strong> We do not track your usage behavior or navigation within the app.</li>
+            <li><strong>Local Storage:</strong> All your progress, favorite words, and history are stored locally on
+                your device only.</li>
+        </ul>
 
-        <section>
-            <h2>1. Information Collection</h2>
-            <p>Shabd is designed to function entirely offline and locally. We do not collect, store, or transmit any
-                Personal Identifiable Information (PII) such as your name, email address, or location.</p>
-        </section>
+        <h2>2. Notifications</h2>
+        <p>Shabd uses local notifications to deliver your Daily Word. These notifications are scheduled and triggered
+            entirely within your device. No external servers are involved in sending these periodic reminders.</p>
 
-        <section>
-            <h2>2. Data Usage</h2>
-            <p>Since no data is collected, we have no access to your usage patterns. We do not use tracking cookies, we
-                do not serve personalized advertisements, and we do not sell data to third-party brokers.</p>
-        </section>
+        <h2>3. Third-Party Services</h2>
+        <p>To keep the app free and functional, we may use certain third-party services that could collect information
+            used to identify you:</p>
+        <ul>
+            <li><strong>Google Play Services:</strong> Used for core app functionality on Android.</li>
+            <li><strong>Indus App Store Services:</strong> Used for distribution and updates.</li>
+        </ul>
 
-        <section>
-            <h2>3. Third-Party Services</h2>
-            <p>The app does not utilize any third-party SDKs (like Facebook or Google Analytics) that could track your
-                behavior across other apps or websites.</p>
-        </section>
+        <h2>4. Data Security</h2>
+        <p>Since your data lives on your device, its security is as strong as your device's security. We recommend
+            keeping your operating system updated and using device-level encryption.</p>
 
-        <section>
-            <h2>4. Children’s Privacy</h2>
-            <p>Shabd is a safe environment for all ages. Because we do not collect any information, we are fully
-                compliant with the Children’s Online Privacy Protection Act (COPPA).</p>
-        </section>
+        <h2>5. Children's Privacy</h2>
+        <p>Our app does not address anyone under the age of 13. We do not knowingly collect personally identifiable
+            information from children.</p>
 
-        <section>
-            <h2>5. Policy Updates</h2>
-            <p>We may occasionally update this document to reflect new features. Any changes will be posted here with an
-                updated "Effective Date."</p>
-        </section>
+        <h2>6. Changes to This Policy</h2>
+        <p>We may update our Privacy Policy from time to time. You are advised to review this page periodically for any
+            changes. Changes are effective immediately after they are posted on this page.</p>
 
-        <div class="contact-card">
-            <h3>Questions?</h3>
-            <p style="color: #cbd5e1; margin-top: 10px;">We’re happy to help you understand our privacy stance better.
-            </p>
-            <a href="mailto:work8abhishek@gmail.com">work8abhishek@gmail.com</a>
-        </div>
+        <h2>7. Contact Us</h2>
+        <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: <br>
+            <strong>work8anhishek@gmail.com</strong>
+        </p>
+
+        <footer>
+            &copy; 2026 Shabd. All rights reserved.
+        </footer>
     </div>
-
-    <footer>
-        &copy; 2026 Shabd Vocabulary App. All rights reserved.
-    </footer>
 
 </body>
 
