@@ -1,205 +1,2557 @@
 [
     {
+        "word": "Resilience",
+        "part_of_speech": "noun",
+        "definition": "The capacity to recover quickly from difficulties; toughness.",
+        "hindi_meaning": "लचीलापन / सहनशक्ति",
+        "date": "2026-01-01"
+    },
+    {
+        "word": "Alacrity",
+        "part_of_speech": "noun",
+        "definition": "Brisk and cheerful readiness.",
+        "hindi_meaning": "तत्परता / उत्साह",
+        "date": "2026-01-02"
+    },
+    {
+        "word": "Mellifluous",
+        "part_of_speech": "adjective",
+        "definition": "A sound that is sweet and musical; pleasant to hear.",
+        "hindi_meaning": "मधुर / सुरीला",
+        "date": "2026-01-03"
+    },
+    {
         "word": "Serendipity",
         "part_of_speech": "noun",
         "definition": "The occurrence of events by chance in a happy or beneficial way.",
         "hindi_meaning": "आकस्मिक लाभ",
-        "date": "2026-02-04"
+        "date": "2026-01-04"
     },
     {
-        "word": "Ephemeral",
-        "part_of_speech": "adjective",
-        "definition": "Lasting for a very short time.",
-        "hindi_meaning": "अल्पकालिक",
-        "date": "2026-02-03"
-    },
-    {
-        "word": "Resilience",
+        "word": "Epoch",
         "part_of_speech": "noun",
-        "definition": "The capacity to recover quickly from difficulties.",
-        "hindi_meaning": "लचीलापन / सहनशक्ति",
-        "date": "2026-02-02"
+        "definition": "A particular period of time in history or a person's life.",
+        "hindi_meaning": "युग / काल",
+        "date": "2026-01-05"
+    },
+    {
+        "word": "Ethereal",
+        "part_of_speech": "adjective",
+        "definition": "Extremely delicate and light in a way that seems too perfect for this world.",
+        "hindi_meaning": "दिव्य / अलौकिक",
+        "date": "2026-01-06"
+    },
+    {
+        "word": "Luminous",
+        "part_of_speech": "adjective",
+        "definition": "Full of or shedding light; bright or shining.",
+        "hindi_meaning": "चमकीला / प्रकाशमान",
+        "date": "2026-01-07"
     },
     {
         "word": "Eloquent",
         "part_of_speech": "adjective",
         "definition": "Fluent or persuasive in speaking or writing.",
-        "hindi_meaning": "सुवक्ता",
-        "date": "2026-02-01"
-    },
-    {
-        "word": "Ineffable",
-        "part_of_speech": "adjective",
-        "definition": "Too great or extreme to be expressed or described in words.",
-        "hindi_meaning": "अवर्णनीय",
-        "date": "2026-01-31"
+        "hindi_meaning": "सुवक्ता / वाक्पटु",
+        "date": "2026-01-08"
     },
     {
         "word": "Sonder",
         "part_of_speech": "noun",
-        "definition": "The realization that each random passerby is living a life as vivid and complex as your own.",
-        "hindi_meaning": "दूसरों के जीवन की गहनता का एहसास",
-        "date": "2026-01-30"
-    },
-    {
-        "word": "Limerence",
-        "part_of_speech": "noun",
-        "definition": "The state of being infatuated or obsessed with another person.",
-        "hindi_meaning": "गहन आसक्ति",
-        "date": "2026-01-29"
+        "definition": "The realization that each passerby has a life as vivid and complex as your own.",
+        "hindi_meaning": "दूसरों के जीवन की गहराई का एहसास",
+        "date": "2026-01-09"
     },
     {
         "word": "Petrichor",
         "part_of_speech": "noun",
-        "definition": "A pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather.",
-        "hindi_meaning": "सौंधी सुगंध",
-        "date": "2026-01-28"
+        "definition": "A pleasant smell that accompanies the first rain after a dry spell.",
+        "hindi_meaning": "मिट्टी की सौंधी खुशबू",
+        "date": "2026-01-10"
+    },
+    {
+        "word": "Ineffable",
+        "part_of_speech": "adjective",
+        "definition": "Too great or extreme to be expressed in words.",
+        "hindi_meaning": "अवर्णनीय",
+        "date": "2026-01-11"
+    },
+    {
+        "word": "Halcyon",
+        "part_of_speech": "adjective",
+        "definition": "Denoting a period of time in the past that was idyllically happy and peaceful.",
+        "hindi_meaning": "शांत और खुशहाल",
+        "date": "2026-01-12"
+    },
+    {
+        "word": "Ephemeral",
+        "part_of_speech": "adjective",
+        "definition": "Lasting for a very short time.",
+        "hindi_meaning": "क्षणभंगुर / अल्पकालिक",
+        "date": "2026-01-13"
+    },
+    {
+        "word": "Aurora",
+        "part_of_speech": "noun",
+        "definition": "A natural electrical phenomenon characterized by streamers of light in the sky.",
+        "hindi_meaning": "ध्रुवीय ज्योति",
+        "date": "2026-01-14"
     },
     {
         "word": "Solitude",
         "part_of_speech": "noun",
         "definition": "The state or situation of being alone.",
         "hindi_meaning": "एकांत",
-        "date": "2026-01-27"
-    },
-    {
-        "word": "Euphoria",
-        "part_of_speech": "noun",
-        "definition": "A feeling or state of intense excitement and happiness.",
-        "hindi_meaning": "उत्साह",
-        "date": "2026-01-26"
-    },
-    {
-        "word": "Melancholy",
-        "part_of_speech": "noun",
-        "definition": "A feeling of pensive sadness, typically with no obvious cause.",
-        "hindi_meaning": "उदासी",
-        "date": "2026-01-25"
-    },
-    {
-        "word": "Nostalgia",
-        "part_of_speech": "noun",
-        "definition": "A sentimental longing or wistful affection for the past.",
-        "hindi_meaning": "अतीत की याद",
-        "date": "2026-01-24"
-    },
-    {
-        "word": "Aurora",
-        "part_of_speech": "noun",
-        "definition": "A natural electrical phenomenon characterized by the appearance of streamers of reddish or greenish light in the sky.",
-        "hindi_meaning": "ध्रुवीय ज्योति",
-        "date": "2026-01-23"
-    },
-    {
-        "word": "Ethereal",
-        "part_of_speech": "adjective",
-        "definition": "Extremely delicate and light in a way that seems too perfect for this world.",
-        "hindi_meaning": "दिव्य / स्वर्गीय",
-        "date": "2026-01-22"
+        "date": "2026-01-15"
     },
     {
         "word": "Labyrinth",
         "part_of_speech": "noun",
-        "definition": "A complicated irregular network of passages or paths in which it is difficult to find one's way.",
+        "definition": "A complicated irregular network of passages or paths.",
         "hindi_meaning": "भूलभुलैया",
-        "date": "2026-01-21"
-    },
-    {
-        "word": "Epiphany",
-        "part_of_speech": "noun",
-        "definition": "A moment of sudden revelation or insight.",
-        "hindi_meaning": "अहसास / सिद्धि",
-        "date": "2026-01-20"
-    },
-    {
-        "word": "Halcyon",
-        "part_of_speech": "adjective",
-        "definition": "Denoting a period of time in the past that was idyll, happy and peaceful.",
-        "hindi_meaning": "खुशहाल / शांत",
-        "date": "2026-01-19"
+        "date": "2026-01-16"
     },
     {
         "word": "Vellichor",
         "part_of_speech": "noun",
         "definition": "The strange wistfulness of used bookstores.",
-        "hindi_meaning": "पुरानी किताबों की महक",
-        "date": "2026-01-18"
-    },
-    {
-        "word": "Supine",
-        "part_of_speech": "adjective",
-        "definition": "Lying face upward.",
-        "hindi_meaning": "सीधा लेटा हुआ",
+        "hindi_meaning": "पुरानी किताबों की खुशबू और यादें",
         "date": "2026-01-17"
     },
     {
-        "word": "Soliloquy",
+        "word": "Clinomania",
         "part_of_speech": "noun",
-        "definition": "An act of speaking one's thoughts aloud when by oneself.",
-        "hindi_meaning": "स्वगत भाषण",
-        "date": "2026-01-16"
+        "definition": "Excessive desire to stay in bed.",
+        "hindi_meaning": "बिस्तर पर पड़े रहने की तीव्र इच्छा",
+        "date": "2026-01-18"
     },
     {
         "word": "Effervescent",
         "part_of_speech": "adjective",
-        "definition": "Bubbling, vivacious and enthusiastic.",
-        "hindi_meaning": "उत्साही / बुलबुलेदार",
-        "date": "2026-01-15"
+        "definition": "Vivacious and enthusiastic.",
+        "hindi_meaning": "उत्साही / प्रफुल्लित",
+        "date": "2026-01-19"
     },
     {
         "word": "Incandescent",
         "part_of_speech": "adjective",
         "definition": "Emitting light as a result of being heated; passionate.",
         "hindi_meaning": "देदीप्यमान / तेजस्वी",
-        "date": "2026-01-14"
-    },
-    {
-        "word": "Pluviophile",
-        "part_of_speech": "noun",
-        "definition": "A lover of rain; someone who finds joy and peace of mind during rainy days.",
-        "hindi_meaning": "वर्षा प्रेमी",
-        "date": "2026-01-13"
-    },
-    {
-        "word": "Clinomania",
-        "part_of_speech": "noun",
-        "definition": "Excessive desire to stay in bed.",
-        "hindi_meaning": "बिस्तर पर रहने की लालसा",
-        "date": "2026-01-12"
-    },
-    {
-        "word": "Hiraeth",
-        "part_of_speech": "noun",
-        "definition": "A homesickness for a home to which you cannot return, a home which maybe never was.",
-        "hindi_meaning": "एक प्रकार की गहरी उदासी",
-        "date": "2026-01-11"
+        "date": "2026-01-20"
     },
     {
         "word": "Phosphenes",
         "part_of_speech": "noun",
         "definition": "The light and colors produced by rubbing your eyes.",
-        "hindi_meaning": "आँख बंद करने पर दिखने वाले रंग",
-        "date": "2026-01-10"
+        "hindi_meaning": "आंखें मलने पर दिखने वाले रंग",
+        "date": "2026-01-21"
     },
     {
         "word": "Aquiver",
         "part_of_speech": "adjective",
         "definition": "Quivering; trembling.",
         "hindi_meaning": "कांपता हुआ",
-        "date": "2026-01-09"
+        "date": "2026-01-22"
     },
     {
-        "word": "Mellifluous",
+        "word": "Meticulous",
         "part_of_speech": "adjective",
-        "definition": "A sound that is sweet and musical, pleasant to hear.",
-        "hindi_meaning": "मधुर",
-        "date": "2026-01-08"
+        "definition": "Showing great attention to detail; very careful and precise.",
+        "hindi_meaning": "सूक्ष्म / अति सावधान",
+        "date": "2026-01-23"
     },
     {
-        "word": "Ineffable",
+        "word": "Brevity",
+        "part_of_speech": "noun",
+        "definition": "Concise and exact use of words in writing or speech.",
+        "hindi_meaning": "संक्षिप्तता",
+        "date": "2026-01-24"
+    },
+    {
+        "word": "Candor",
+        "part_of_speech": "noun",
+        "definition": "The quality of being open and honest in expression; frankness.",
+        "hindi_meaning": "निष्कपटता / स्पष्टवादिता",
+        "date": "2026-01-25"
+    },
+    {
+        "word": "Euphoria",
+        "part_of_speech": "noun",
+        "definition": "A feeling or state of intense excitement and happiness.",
+        "hindi_meaning": "उत्साह / अत्यंत हर्ष",
+        "date": "2026-01-26"
+    },
+    {
+        "word": "Zenith",
+        "part_of_speech": "noun",
+        "definition": "The time at which something is most powerful or successful.",
+        "hindi_meaning": "शिखर / चरम सीमा",
+        "date": "2026-01-27"
+    },
+    {
+        "word": "Nostalgia",
+        "part_of_speech": "noun",
+        "definition": "A sentimental longing for the past.",
+        "hindi_meaning": "बीते वक्त की याद",
+        "date": "2026-01-28"
+    },
+    {
+        "word": "Ameliorate",
+        "part_of_speech": "verb",
+        "definition": "Make something bad better.",
+        "hindi_meaning": "सुधारना",
+        "date": "2026-01-29"
+    },
+    {
+        "word": "Benevolent",
         "part_of_speech": "adjective",
-        "definition": "Too great or extreme to be expressed or described in words.",
-        "hindi_meaning": "अकथनीय",
-        "date": "2026-01-07"
+        "definition": "Well meaning and kindly.",
+        "hindi_meaning": "परोपकारी / दयालु",
+        "date": "2026-01-30"
+    },
+    {
+        "word": "Complacent",
+        "part_of_speech": "adjective",
+        "definition": "Showing smug or uncritical satisfaction with oneself.",
+        "hindi_meaning": "आत्मसंतुष्ट",
+        "date": "2026-01-31"
+    },
+    {
+        "word": "Fortuitous",
+        "part_of_speech": "adjective",
+        "definition": "Happening by a lucky chance; fortunate.",
+        "hindi_meaning": "आकस्मिक / भाग्यशाली",
+        "date": "2026-02-01"
+    },
+    {
+        "word": "Pragmatic",
+        "part_of_speech": "adjective",
+        "definition": "Dealing with things sensibly and realistically.",
+        "hindi_meaning": "व्यावहारिक",
+        "date": "2026-02-02"
+    },
+    {
+        "word": "Gregarious",
+        "part_of_speech": "adjective",
+        "definition": "Fond of company; sociable.",
+        "hindi_meaning": "मिलनसार",
+        "date": "2026-02-03"
+    },
+    {
+        "word": "Soliloquy",
+        "part_of_speech": "noun",
+        "definition": "An act of speaking one's thoughts aloud when alone.",
+        "hindi_meaning": "आत्मभाषण",
+        "date": "2026-02-04"
+    },
+    {
+        "word": "Absolve",
+        "part_of_speech": "verb",
+        "definition": "Set free from blame, guilt, or responsibility.",
+        "hindi_meaning": "दोषमुक्त करना",
+        "date": "2026-02-05"
+    },
+    {
+        "word": "Accolade",
+        "part_of_speech": "noun",
+        "definition": "An award or privilege granted as a special honor.",
+        "hindi_meaning": "सम्मान / पुरस्कार",
+        "date": "2026-02-06"
+    },
+    {
+        "word": "Acumen",
+        "part_of_speech": "noun",
+        "definition": "The ability to make good judgments and quick decisions.",
+        "hindi_meaning": "कुशाग्रता",
+        "date": "2026-02-07"
+    },
+    {
+        "word": "Adulation",
+        "part_of_speech": "noun",
+        "definition": "Excessive admiration or praise.",
+        "hindi_meaning": "अति-प्रशंसा",
+        "date": "2026-02-08"
+    },
+    {
+        "word": "Anachronism",
+        "part_of_speech": "noun",
+        "definition": "A thing belonging to a period other than its own.",
+        "hindi_meaning": "कालोचित दोष",
+        "date": "2026-02-09"
+    },
+    {
+        "word": "Antithesis",
+        "part_of_speech": "noun",
+        "definition": "The direct opposite of someone or something else.",
+        "hindi_meaning": "विलोम / विपरीत",
+        "date": "2026-02-10"
+    },
+    {
+        "word": "Aphorism",
+        "part_of_speech": "noun",
+        "definition": "A pithy observation that contains a general truth.",
+        "hindi_meaning": "सूक्ति / कहावत",
+        "date": "2026-02-11"
+    },
+    {
+        "word": "Arcane",
+        "part_of_speech": "adjective",
+        "definition": "Understood by few; mysterious or secret.",
+        "hindi_meaning": "रहस्यमय",
+        "date": "2026-02-12"
+    },
+    {
+        "word": "Ascetic",
+        "part_of_speech": "adjective",
+        "definition": "Characterized by severe self-discipline.",
+        "hindi_meaning": "तपस्वी / संयमी",
+        "date": "2026-02-13"
+    },
+    {
+        "word": "Assiduous",
+        "part_of_speech": "adjective",
+        "definition": "Showing great care and perseverance.",
+        "hindi_meaning": "परिश्रमी",
+        "date": "2026-02-14"
+    },
+    {
+        "word": "Avarice",
+        "part_of_speech": "noun",
+        "definition": "Extreme greed for wealth or material gain.",
+        "hindi_meaning": "लोभ / लालच",
+        "date": "2026-02-15"
+    },
+    {
+        "word": "Banal",
+        "part_of_speech": "adjective",
+        "definition": "So lacking in originality as to be boring.",
+        "hindi_meaning": "साधारण / मामूली",
+        "date": "2026-02-16"
+    },
+    {
+        "word": "Belligerent",
+        "part_of_speech": "adjective",
+        "definition": "Hostile and aggressive.",
+        "hindi_meaning": "युद्धरत / लड़ाकू",
+        "date": "2026-02-17"
+    },
+    {
+        "word": "Boisterous",
+        "part_of_speech": "adjective",
+        "definition": "Noisy, energetic, and cheerful.",
+        "hindi_meaning": "कोलाहलपूर्ण",
+        "date": "2026-02-18"
+    },
+    {
+        "word": "Bombastic",
+        "part_of_speech": "adjective",
+        "definition": "High-sounding but with little meaning; inflated.",
+        "hindi_meaning": "आडंबरपूर्ण",
+        "date": "2026-02-19"
+    },
+    {
+        "word": "Cacophony",
+        "part_of_speech": "noun",
+        "definition": "A harsh discordant mixture of sounds.",
+        "hindi_meaning": "कर्कश ध्वनि",
+        "date": "2026-02-20"
+    },
+    {
+        "word": "Cajole",
+        "part_of_speech": "verb",
+        "definition": "Persuade someone by sustained coaxing or flattery.",
+        "hindi_meaning": "फुसलाना",
+        "date": "2026-02-21"
+    },
+    {
+        "word": "Capricious",
+        "part_of_speech": "adjective",
+        "definition": "Given to sudden and unaccountable changes of mood.",
+        "hindi_meaning": "मनमौजी / चंचल",
+        "date": "2026-02-22"
+    },
+    {
+        "word": "Castigate",
+        "part_of_speech": "verb",
+        "definition": "Reprimand someone severely.",
+        "hindi_meaning": "फटकारना",
+        "date": "2026-02-23"
+    },
+    {
+        "word": "Catalyst",
+        "part_of_speech": "noun",
+        "definition": "A person or thing that precipitates an event.",
+        "hindi_meaning": "उत्प्रेरक",
+        "date": "2026-02-24"
+    },
+    {
+        "word": "Caustic",
+        "part_of_speech": "adjective",
+        "definition": "Sarcastic in a scathing and bitter way.",
+        "hindi_meaning": "व्यंग्यात्मक",
+        "date": "2026-02-25"
+    },
+    {
+        "word": "Chicanery",
+        "part_of_speech": "noun",
+        "definition": "The use of trickery to achieve a purpose.",
+        "hindi_meaning": "छल-कपट",
+        "date": "2026-02-26"
+    },
+    {
+        "word": "Circumspect",
+        "part_of_speech": "adjective",
+        "definition": "Wary and unwilling to take risks.",
+        "hindi_meaning": "एहतियात बरतने वाला",
+        "date": "2026-02-27"
+    },
+    {
+        "word": "Clandestine",
+        "part_of_speech": "adjective",
+        "definition": "Kept secret or done secretively.",
+        "hindi_meaning": "गुप्त",
+        "date": "2026-02-28"
+    },
+    {
+        "word": "Coalesce",
+        "part_of_speech": "verb",
+        "definition": "Come together to form one mass or whole.",
+        "hindi_meaning": "संगठित होना",
+        "date": "2026-03-01"
+    },
+    {
+        "word": "Cogent",
+        "part_of_speech": "adjective",
+        "definition": "Clear, logical, and convincing.",
+        "hindi_meaning": "ठोस / प्रभावशाली",
+        "date": "2026-03-02"
+    },
+    {
+        "word": "Conciliatory",
+        "part_of_speech": "adjective",
+        "definition": "Intended or likely to placate or pacify.",
+        "hindi_meaning": "मैत्रीपूर्ण",
+        "date": "2026-03-03"
+    },
+    {
+        "word": "Conundrum",
+        "part_of_speech": "noun",
+        "definition": "A confusing and difficult problem or question.",
+        "hindi_meaning": "पहेली / मुश्किल",
+        "date": "2026-03-04"
+    },
+    {
+        "word": "Copious",
+        "part_of_speech": "adjective",
+        "definition": "Abundant in supply or quantity.",
+        "hindi_meaning": "प्रचुर / बहुत अधिक",
+        "date": "2026-03-05"
+    },
+    {
+        "word": "Corroborate",
+        "part_of_speech": "verb",
+        "definition": "Confirm or give support to a statement or theory.",
+        "hindi_meaning": "पुष्टि करना",
+        "date": "2026-03-06"
+    },
+    {
+        "word": "Cursory",
+        "part_of_speech": "adjective",
+        "definition": "Hasty and therefore not thorough or detailed.",
+        "hindi_meaning": "सरसरी",
+        "date": "2026-03-07"
+    },
+    {
+        "word": "Dearth",
+        "part_of_speech": "noun",
+        "definition": "A scarcity or lack of something.",
+        "hindi_meaning": "कमी / अकाल",
+        "date": "2026-03-08"
+    },
+    {
+        "word": "Debacle",
+        "part_of_speech": "noun",
+        "definition": "A sudden and ignominious failure; a fiasco.",
+        "hindi_meaning": "पराजय / असफलता",
+        "date": "2026-03-09"
+    },
+    {
+        "word": "Deferential",
+        "part_of_speech": "adjective",
+        "definition": "Showing deference; respectful.",
+        "hindi_meaning": "आदरपूर्ण",
+        "date": "2026-03-10"
+    },
+    {
+        "word": "Delineate",
+        "part_of_speech": "verb",
+        "definition": "Describe or portray something precisely.",
+        "hindi_meaning": "सटीक वर्णन करना",
+        "date": "2026-03-11"
+    },
+    {
+        "word": "Demagogue",
+        "part_of_speech": "noun",
+        "definition": "A leader who appeals to popular desires rather than using rational argument.",
+        "hindi_meaning": "दुर्जन नेता",
+        "date": "2026-03-12"
+    },
+    {
+        "word": "Despot",
+        "part_of_speech": "noun",
+        "definition": "A ruler with absolute power, typically one who exercises it in a cruel way.",
+        "hindi_meaning": "तानाशाह",
+        "date": "2026-03-13"
+    },
+    {
+        "word": "Diaphanous",
+        "part_of_speech": "adjective",
+        "definition": "Light, delicate, and translucent.",
+        "hindi_meaning": "पारभासी",
+        "date": "2026-03-14"
+    },
+    {
+        "word": "Dictum",
+        "part_of_speech": "noun",
+        "definition": "A formal pronouncement from an authoritative source.",
+        "hindi_meaning": "कथन / आदेश",
+        "date": "2026-03-15"
+    },
+    {
+        "word": "Didactic",
+        "part_of_speech": "adjective",
+        "definition": "Intended to teach, particularly having moral instruction as a motive.",
+        "hindi_meaning": "शिक्षाप्रद",
+        "date": "2026-03-16"
+    },
+    {
+        "word": "Diffident",
+        "part_of_speech": "adjective",
+        "definition": "Modest or shy because of a lack of self-confidence.",
+        "hindi_meaning": "संकोची / शर्मीला",
+        "date": "2026-03-17"
+    },
+    {
+        "word": "Digress",
+        "part_of_speech": "verb",
+        "definition": "Leave the main subject temporarily in speech or writing.",
+        "hindi_meaning": "विषयांतर होना",
+        "date": "2026-03-18"
+    },
+    {
+        "word": "Disparate",
+        "part_of_speech": "adjective",
+        "definition": "Essentially different in kind.",
+        "hindi_meaning": "भिन्न / असमान",
+        "date": "2026-03-19"
+    },
+    {
+        "word": "Disseminate",
+        "part_of_speech": "verb",
+        "definition": "Spread or disperse information widely.",
+        "hindi_meaning": "प्रसार करना",
+        "date": "2026-03-20"
+    },
+    {
+        "word": "Dissonance",
+        "part_of_speech": "noun",
+        "definition": "Lack of harmony among musical notes or elements.",
+        "hindi_meaning": "असंगति",
+        "date": "2026-03-21"
+    },
+    {
+        "word": "Docile",
+        "part_of_speech": "adjective",
+        "definition": "Ready to accept control or instruction; submissive.",
+        "hindi_meaning": "विनीत / दब्बू",
+        "date": "2026-03-22"
+    },
+    {
+        "word": "Dogmatic",
+        "part_of_speech": "adjective",
+        "definition": "Inclined to lay down principles as undeniably true.",
+        "hindi_meaning": "कट्टर / सिद्धांतवादी",
+        "date": "2026-03-23"
+    },
+    {
+        "word": "Dormant",
+        "part_of_speech": "adjective",
+        "definition": "Having normal physical functions suspended; inactive.",
+        "hindi_meaning": "सुप्त / निष्क्रिय",
+        "date": "2026-03-24"
+    },
+    {
+        "word": "Ebullient",
+        "part_of_speech": "adjective",
+        "definition": "Cheerful and full of energy.",
+        "hindi_meaning": "उत्साही / प्रफुल्लित",
+        "date": "2026-03-25"
+    },
+    {
+        "word": "Eclectic",
+        "part_of_speech": "adjective",
+        "definition": "Deriving ideas from a diverse range of sources.",
+        "hindi_meaning": "चयनशील / उदार",
+        "date": "2026-03-26"
+    },
+    {
+        "word": "Edify",
+        "part_of_speech": "verb",
+        "definition": "Instruct or improve someone morally or intellectually.",
+        "hindi_meaning": "शिक्षा देना / सुधारना",
+        "date": "2026-03-27"
+    },
+    {
+        "word": "Egregious",
+        "part_of_speech": "adjective",
+        "definition": "Outstandingly bad; shocking.",
+        "hindi_meaning": "भीषण / अत्यंत बुरा",
+        "date": "2026-03-28"
+    },
+    {
+        "word": "Elicit",
+        "part_of_speech": "verb",
+        "definition": "Evoke or draw out a response from someone.",
+        "hindi_meaning": "प्राप्त करना / प्रकाश में लाना",
+        "date": "2026-03-29"
+    },
+    {
+        "word": "Elusive",
+        "part_of_speech": "adjective",
+        "definition": "Difficult to find, catch, or achieve.",
+        "hindi_meaning": "पकड़ में न आने वाला",
+        "date": "2026-03-30"
+    },
+    {
+        "word": "Emancipate",
+        "part_of_speech": "verb",
+        "definition": "Set free from legal, social, or political restrictions.",
+        "hindi_meaning": "स्वतंत्र करना",
+        "date": "2026-03-31"
+    },
+    {
+        "word": "Emulate",
+        "part_of_speech": "verb",
+        "definition": "Match or surpass a person or achievement, typically by imitation.",
+        "hindi_meaning": "अनुकरण करना",
+        "date": "2026-04-01"
+    },
+    {
+        "word": "Enervate",
+        "part_of_speech": "verb",
+        "definition": "Cause someone to feel drained of energy or vitality.",
+        "hindi_meaning": "कमजोर करना",
+        "date": "2026-04-02"
+    },
+    {
+        "word": "Engender",
+        "part_of_speech": "verb",
+        "definition": "Cause or give rise to a feeling or situation.",
+        "hindi_meaning": "उत्पन्न करना",
+        "date": "2026-04-03"
+    },
+    {
+        "word": "Enigma",
+        "part_of_speech": "noun",
+        "definition": "A person or thing that is mysterious or difficult to understand.",
+        "hindi_meaning": "पहेली / रहस्य",
+        "date": "2026-04-04"
+    },
+    {
+        "word": "Equanimity",
+        "part_of_speech": "noun",
+        "definition": "Mental calmness, composure, and evenness of temper.",
+        "hindi_meaning": "धैर्य / समभाव",
+        "date": "2026-04-05"
+    },
+    {
+        "word": "Equivocal",
+        "part_of_speech": "adjective",
+        "definition": "Open to more than one interpretation; ambiguous.",
+        "hindi_meaning": "अस्पष्ट / गोलमोल",
+        "date": "2026-04-06"
+    },
+    {
+        "word": "Erudite",
+        "part_of_speech": "adjective",
+        "definition": "Having or showing great knowledge or learning.",
+        "hindi_meaning": "विद्वान",
+        "date": "2026-04-07"
+    },
+    {
+        "word": "Esoteric",
+        "part_of_speech": "adjective",
+        "definition": "Intended for or likely to be understood by only a small number of people.",
+        "hindi_meaning": "गूढ़ / गुप्त",
+        "date": "2026-04-08"
+    },
+    {
+        "word": "Euphemism",
+        "part_of_speech": "noun",
+        "definition": "A mild or indirect word substituted for one considered too harsh.",
+        "hindi_meaning": "कोमल वचन",
+        "date": "2026-04-09"
+    },
+    {
+        "word": "Exacerbate",
+        "part_of_speech": "verb",
+        "definition": "Make a problem or bad situation worse.",
+        "hindi_meaning": "बिगाड़ना / स्थिति खराब करना",
+        "date": "2026-04-10"
+    },
+    {
+        "word": "Exacting",
+        "part_of_speech": "adjective",
+        "definition": "Making great demands on one's skill, attention, or resources.",
+        "hindi_meaning": "कठिन / मांगपूर्ण",
+        "date": "2026-04-11"
+    },
+    {
+        "word": "Exculpate",
+        "part_of_speech": "verb",
+        "definition": "Show or declare that someone is not guilty of wrongdoing.",
+        "hindi_meaning": "दोषमुक्त करना",
+        "date": "2026-04-12"
+    },
+    {
+        "word": "Exorbitant",
+        "part_of_speech": "adjective",
+        "definition": "Unreasonably high (of a price or amount).",
+        "hindi_meaning": "अत्यधिक",
+        "date": "2026-04-13"
+    },
+    {
+        "word": "Expedient",
+        "part_of_speech": "adjective",
+        "definition": "Convenient and practical although possibly improper.",
+        "hindi_meaning": "उचित / लाभप्रद",
+        "date": "2026-04-14"
+    },
+    {
+        "word": "Explicit",
+        "part_of_speech": "adjective",
+        "definition": "Stated clearly and in detail.",
+        "hindi_meaning": "स्पष्ट / मुखर",
+        "date": "2026-04-15"
+    },
+    {
+        "word": "Extol",
+        "part_of_speech": "verb",
+        "definition": "Praise enthusiastically.",
+        "hindi_meaning": "प्रशंसा करना",
+        "date": "2026-04-16"
+    },
+    {
+        "word": "Extraneous",
+        "part_of_speech": "adjective",
+        "definition": "Irrelevant or unrelated to the subject.",
+        "hindi_meaning": "अप्रासंगिक / बाहरी",
+        "date": "2026-04-17"
+    },
+    {
+        "word": "Exult",
+        "part_of_speech": "verb",
+        "definition": "Show or feel elation or jubilation.",
+        "hindi_meaning": "अति प्रसन्न होना",
+        "date": "2026-04-18"
+    },
+    {
+        "word": "Facetious",
+        "part_of_speech": "adjective",
+        "definition": "Treating serious issues with inappropriate humor.",
+        "hindi_meaning": "दिल्लगीबाज / हंसोड़",
+        "date": "2026-04-19"
+    },
+    {
+        "word": "Fallacious",
+        "part_of_speech": "adjective",
+        "definition": "Based on a mistaken belief.",
+        "hindi_meaning": "गलत / भ्रामक",
+        "date": "2026-04-20"
+    },
+    {
+        "word": "Fastidious",
+        "part_of_speech": "adjective",
+        "definition": "Very attentive to and concerned about accuracy and detail.",
+        "hindi_meaning": "तुनकमिजाज / नखरेबाज",
+        "date": "2026-04-21"
+    },
+    {
+        "word": "Fervent",
+        "part_of_speech": "adjective",
+        "definition": "Having or displaying a passionate intensity.",
+        "hindi_meaning": "उत्साही / गर्मजोशीपूर्ण",
+        "date": "2026-04-22"
+    },
+    {
+        "word": "Fickle",
+        "part_of_speech": "adjective",
+        "definition": "Changing frequently, especially as regards interests or affection.",
+        "hindi_meaning": "चंचल / अस्थिर",
+        "date": "2026-04-23"
+    },
+    {
+        "word": "Fractious",
+        "part_of_speech": "adjective",
+        "definition": "Irritable and quarrelsome.",
+        "hindi_meaning": "झगड़ालू",
+        "date": "2026-04-24"
+    },
+    {
+        "word": "Frivolous",
+        "part_of_speech": "adjective",
+        "definition": "Not having any serious purpose or value.",
+        "hindi_meaning": "तुच्छ / हल्का",
+        "date": "2026-04-25"
+    },
+    {
+        "word": "Frugal",
+        "part_of_speech": "adjective",
+        "definition": "Sparing or economical with regard to money or food.",
+        "hindi_meaning": "मितव्ययी / किफायती",
+        "date": "2026-04-26"
+    },
+    {
+        "word": "Furtive",
+        "part_of_speech": "adjective",
+        "definition": "Attempting to avoid notice, typically because of guilt.",
+        "hindi_meaning": "गुप्त / चुपके से",
+        "date": "2026-04-27"
+    },
+    {
+        "word": "Garrulous",
+        "part_of_speech": "adjective",
+        "definition": "Excessively talkative, especially on trivial matters.",
+        "hindi_meaning": "बातूनी",
+        "date": "2026-04-28"
+    },
+    {
+        "word": "Gratuitous",
+        "part_of_speech": "adjective",
+        "definition": "Uncalled for; lacking good reason.",
+        "hindi_meaning": "अकारण / अनावश्यक",
+        "date": "2026-04-29"
+    },
+    {
+        "word": "Guile",
+        "part_of_speech": "noun",
+        "definition": "Sly or cunning intelligence.",
+        "hindi_meaning": "छल-कपट / धूर्तता",
+        "date": "2026-04-30"
+    },
+    {
+        "word": "Hackneyed",
+        "part_of_speech": "adjective",
+        "definition": "Lacking significance through having been overused.",
+        "hindi_meaning": "घिसा-पिटा",
+        "date": "2026-05-01"
+    },
+    {
+        "word": "Hallowed",
+        "part_of_speech": "adjective",
+        "definition": "Made holy; consecrated.",
+        "hindi_meaning": "पवित्र",
+        "date": "2026-05-02"
+    },
+    {
+        "word": "Haphazard",
+        "part_of_speech": "adjective",
+        "definition": "Lacking any obvious principle of organization.",
+        "hindi_meaning": "बेतरतीब",
+        "date": "2026-05-03"
+    },
+    {
+        "word": "Harangue",
+        "part_of_speech": "noun",
+        "definition": "A lengthy and aggressive speech.",
+        "hindi_meaning": "आक्रामक भाषण",
+        "date": "2026-05-04"
+    },
+    {
+        "word": "Hedonist",
+        "part_of_speech": "noun",
+        "definition": "A person who believes that the pursuit of pleasure is the most important aspect of life.",
+        "hindi_meaning": "सुखवादी",
+        "date": "2026-05-05"
+    },
+    {
+        "word": "Heinous",
+        "part_of_speech": "adjective",
+        "definition": "Utterly wicked.",
+        "hindi_meaning": "जघन्य / घृणित",
+        "date": "2026-05-06"
+    },
+    {
+        "word": "Hiatus",
+        "part_of_speech": "noun",
+        "definition": "A pause or gap in a sequence, series, or process.",
+        "hindi_meaning": "विराम / अंतराल",
+        "date": "2026-05-07"
+    },
+    {
+        "word": "Homage",
+        "part_of_speech": "noun",
+        "definition": "Special honor or respect shown publicly.",
+        "hindi_meaning": "श्रद्धांजलि / सम्मान",
+        "date": "2026-05-08"
+    },
+    {
+        "word": "Hubris",
+        "part_of_speech": "noun",
+        "definition": "Excessive pride or self-confidence.",
+        "hindi_meaning": "घमंड / अभिमान",
+        "date": "2026-05-09"
+    },
+    {
+        "word": "Hyperbole",
+        "part_of_speech": "noun",
+        "definition": "Exaggerated statements not meant to be taken literally.",
+        "hindi_meaning": "अतिशयोक्ति",
+        "date": "2026-05-10"
+    },
+    {
+        "word": "Iconoclast",
+        "part_of_speech": "noun",
+        "definition": "A person who attacks cherished beliefs or institutions.",
+        "hindi_meaning": "मूर्तिभंजक / पंथ-विरोधी",
+        "date": "2026-05-11"
+    },
+    {
+        "word": "Idiosyncrasy",
+        "part_of_speech": "noun",
+        "definition": "A mode of behavior peculiar to an individual.",
+        "hindi_meaning": "विचित्रता / लत",
+        "date": "2026-05-12"
+    },
+    {
+        "word": "Ignominious",
+        "part_of_speech": "adjective",
+        "definition": "Deserving or causing public disgrace or shame.",
+        "hindi_meaning": "अपमानजनक / घृणित",
+        "date": "2026-05-13"
+    },
+    {
+        "word": "Immutable",
+        "part_of_speech": "adjective",
+        "definition": "Unchanging over time or unable to be changed.",
+        "hindi_meaning": "अपरिवर्तनीय",
+        "date": "2026-05-14"
+    },
+    {
+        "word": "Impeccable",
+        "part_of_speech": "adjective",
+        "definition": "In accordance with the highest standards; faultless.",
+        "hindi_meaning": "त्रुटिहीन / निर्दोष",
+        "date": "2026-05-15"
+    },
+    {
+        "word": "Impediment",
+        "part_of_speech": "noun",
+        "definition": "A hindrance or obstruction in doing something.",
+        "hindi_meaning": "बाधा",
+        "date": "2026-05-16"
+    },
+    {
+        "word": "Imperious",
+        "part_of_speech": "adjective",
+        "definition": "Assuming power or authority without justification.",
+        "hindi_meaning": "शाही / अभिमानी",
+        "date": "2026-05-17"
+    },
+    {
+        "word": "Imperturbable",
+        "part_of_speech": "adjective",
+        "definition": "Unable to be upset or excited; calm.",
+        "hindi_meaning": "शांत / अडिग",
+        "date": "2026-05-18"
+    },
+    {
+        "word": "Impervious",
+        "part_of_speech": "adjective",
+        "definition": "Not allowing fluid to pass through; unaffected by.",
+        "hindi_meaning": "अभेद्य / अप्रभावित",
+        "date": "2026-05-19"
+    },
+    {
+        "word": "Impetuous",
+        "part_of_speech": "adjective",
+        "definition": "Acting or done quickly and without thought or care.",
+        "hindi_meaning": "उतावला / विवेकी",
+        "date": "2026-05-20"
+    },
+    {
+        "word": "Implacable",
+        "part_of_speech": "adjective",
+        "definition": "Relentless; unstoppable.",
+        "hindi_meaning": "कठोर / जिसे शांत न किया जा सके",
+        "date": "2026-05-21"
+    },
+    {
+        "word": "Implicit",
+        "part_of_speech": "adjective",
+        "definition": "Implied though not plainly expressed.",
+        "hindi_meaning": "अंतर्निहित",
+        "date": "2026-05-22"
+    },
+    {
+        "word": "Impromptu",
+        "part_of_speech": "adjective",
+        "definition": "Done without being planned, organized, or rehearsed.",
+        "hindi_meaning": "बिना तैयारी के",
+        "date": "2026-05-23"
+    },
+    {
+        "word": "Inadvertent",
+        "part_of_speech": "adjective",
+        "definition": "Not resulting from deliberate planning.",
+        "hindi_meaning": "अनजाने में",
+        "date": "2026-05-24"
+    },
+    {
+        "word": "Inane",
+        "part_of_speech": "adjective",
+        "definition": "Silly; stupid.",
+        "hindi_meaning": "अर्थहीन / बेवकूफी भरा",
+        "date": "2026-05-25"
+    },
+    {
+        "word": "Inchoate",
+        "part_of_speech": "adjective",
+        "definition": "Just begun and so not fully formed.",
+        "hindi_meaning": "प्रारंभिक / अविकसित",
+        "date": "2026-05-26"
+    },
+    {
+        "word": "Incisive",
+        "part_of_speech": "adjective",
+        "definition": "Intelligently analytical and clear-thinking.",
+        "hindi_meaning": "तीक्ष्ण / प्रभावशाली",
+        "date": "2026-05-27"
+    },
+    {
+        "word": "Incongruous",
+        "part_of_speech": "adjective",
+        "definition": "Not in harmony or keeping with the surroundings.",
+        "hindi_meaning": "असंगत / बेमेल",
+        "date": "2026-05-28"
+    },
+    {
+        "word": "Indigenous",
+        "part_of_speech": "adjective",
+        "definition": "Originating or occurring naturally in a particular place; native.",
+        "hindi_meaning": "स्वदेशी / मूल",
+        "date": "2026-05-29"
+    },
+    {
+        "word": "Indigent",
+        "part_of_speech": "adjective",
+        "definition": "Poor; needy.",
+        "hindi_meaning": "दरिद्र / गरीब",
+        "date": "2026-05-30"
+    },
+    {
+        "word": "Indolent",
+        "part_of_speech": "adjective",
+        "definition": "Wanting to avoid activity or exertion; lazy.",
+        "hindi_meaning": "आलसी / सुस्त",
+        "date": "2026-05-31"
+    },
+    {
+        "word": "Inert",
+        "part_of_speech": "adjective",
+        "definition": "Lacking the ability or strength to move.",
+        "hindi_meaning": "निष्क्रिय",
+        "date": "2026-06-01"
+    },
+    {
+        "word": "Inexorable",
+        "part_of_speech": "adjective",
+        "definition": "Impossible to stop or prevent.",
+        "hindi_meaning": "अपरिवर्तनीय / कठोर",
+        "date": "2026-06-02"
+    },
+    {
+        "word": "Inference",
+        "part_of_speech": "noun",
+        "definition": "A conclusion reached on the basis of evidence and reasoning.",
+        "hindi_meaning": "निष्कर्ष / अनुमान",
+        "date": "2026-06-03"
+    },
+    {
+        "word": "Ingenuous",
+        "part_of_speech": "adjective",
+        "definition": "Innocent and unsuspecting.",
+        "hindi_meaning": "निष्कपट / सरल",
+        "date": "2026-06-04"
+    },
+    {
+        "word": "Inherent",
+        "part_of_speech": "adjective",
+        "definition": "Existing in something as a permanent, essential attribute.",
+        "hindi_meaning": "अंतर्निहित",
+        "date": "2026-06-05"
+    },
+    {
+        "word": "Innocuous",
+        "part_of_speech": "adjective",
+        "definition": "Not harmful or offensive.",
+        "hindi_meaning": "अहानिकर / निर्दोष",
+        "date": "2026-06-06"
+    },
+    {
+        "word": "Inscrutable",
+        "part_of_speech": "adjective",
+        "definition": "Impossible to understand or interpret.",
+        "hindi_meaning": "अगम्य / रहस्यमय",
+        "date": "2026-06-07"
+    },
+    {
+        "word": "Insidious",
+        "part_of_speech": "adjective",
+        "definition": "Proceeding in a gradual, subtle way, but with harmful effects.",
+        "hindi_meaning": "घातक / कपटी",
+        "date": "2026-06-08"
+    },
+    {
+        "word": "Insipid",
+        "part_of_speech": "adjective",
+        "definition": "Lacking flavor or interest.",
+        "hindi_meaning": "नीरस / फीका",
+        "date": "2026-06-09"
+    },
+    {
+        "word": "Intransigent",
+        "part_of_speech": "adjective",
+        "definition": "Unwilling to change one's views.",
+        "hindi_meaning": "अडिग / कट्टर",
+        "date": "2026-06-10"
+    },
+    {
+        "word": "Intrepid",
+        "part_of_speech": "adjective",
+        "definition": "Fearless; adventurous.",
+        "hindi_meaning": "निडर / साहसी",
+        "date": "2026-06-11"
+    },
+    {
+        "word": "Inundate",
+        "part_of_speech": "verb",
+        "definition": "Overwhelm with things or people to be dealt with.",
+        "hindi_meaning": "बाढ़ लाना / अभिभूत करना",
+        "date": "2026-06-12"
+    },
+    {
+        "word": "Inure",
+        "part_of_speech": "verb",
+        "definition": "Accustom to something, especially something unpleasant.",
+        "hindi_meaning": "अभ्यस्त करना",
+        "date": "2026-06-13"
+    },
+    {
+        "word": "Inveterate",
+        "part_of_speech": "adjective",
+        "definition": "Having a particular habit or interest that is long-established.",
+        "hindi_meaning": "पक्का / कट्टर",
+        "date": "2026-06-14"
+    },
+    {
+        "word": "Irascible",
+        "part_of_speech": "adjective",
+        "definition": "Easily angered.",
+        "hindi_meaning": "चिड़चिड़ा",
+        "date": "2026-06-15"
+    },
+    {
+        "word": "Judicious",
+        "part_of_speech": "adjective",
+        "definition": "Having or showing good judgment or sense.",
+        "hindi_meaning": "विवेकपूर्ण",
+        "date": "2026-06-16"
+    },
+    {
+        "word": "Juxtaposition",
+        "part_of_speech": "noun",
+        "definition": "The fact of two things being seen or placed close together with contrasting effect.",
+        "hindi_meaning": "तुलनात्मक स्थिति",
+        "date": "2026-06-17"
+    },
+    {
+        "word": "Kindle",
+        "part_of_speech": "verb",
+        "definition": "Light or set on fire; inspire.",
+        "hindi_meaning": "प्रज्वलित करना",
+        "date": "2026-06-18"
+    },
+    {
+        "word": "Kinetic",
+        "part_of_speech": "adjective",
+        "definition": "Relating to or resulting from motion.",
+        "hindi_meaning": "गतिज",
+        "date": "2026-06-19"
+    },
+    {
+        "word": "Knell",
+        "part_of_speech": "noun",
+        "definition": "The sound of a bell, especially when rung solemnly for a death.",
+        "hindi_meaning": "शोक की घंटी",
+        "date": "2026-06-20"
+    },
+    {
+        "word": "Laconic",
+        "part_of_speech": "adjective",
+        "definition": "Using very few words.",
+        "hindi_meaning": "संक्षिप्त / मितभाषी",
+        "date": "2026-06-21"
+    },
+    {
+        "word": "Lament",
+        "part_of_speech": "verb",
+        "definition": "A passionate expression of grief or sorrow.",
+        "hindi_meaning": "विलाप करना / शोक मनाना",
+        "date": "2026-06-22"
+    },
+    {
+        "word": "Languid",
+        "part_of_speech": "adjective",
+        "definition": "Slow and relaxed.",
+        "hindi_meaning": "सुस्त / निस्तेज",
+        "date": "2026-06-23"
+    },
+    {
+        "word": "Latent",
+        "part_of_speech": "adjective",
+        "definition": "Existing but not yet developed or manifest.",
+        "hindi_meaning": "गुप्त / प्रसुप्त",
+        "date": "2026-06-24"
+    },
+    {
+        "word": "Laud",
+        "part_of_speech": "verb",
+        "definition": "Praise highly.",
+        "hindi_meaning": "प्रशंसा करना",
+        "date": "2026-06-25"
+    },
+    {
+        "word": "Lethargic",
+        "part_of_speech": "adjective",
+        "definition": "Affected by lethargy; sluggish and apathetic.",
+        "hindi_meaning": "सुस्त / आलसी",
+        "date": "2026-06-26"
+    },
+    {
+        "word": "Levity",
+        "part_of_speech": "noun",
+        "definition": "Humor or frivolity during a serious matter.",
+        "hindi_meaning": "छिछोरापन / हास्य",
+        "date": "2026-06-27"
+    },
+    {
+        "word": "Listless",
+        "part_of_speech": "adjective",
+        "definition": "Lacking energy or enthusiasm.",
+        "hindi_meaning": "निरुत्साहित",
+        "date": "2026-06-28"
+    },
+    {
+        "word": "Loquacious",
+        "part_of_speech": "adjective",
+        "definition": "Tending to talk a great deal; talkative.",
+        "hindi_meaning": "बातूनी",
+        "date": "2026-06-29"
+    },
+    {
+        "word": "Lucid",
+        "part_of_speech": "adjective",
+        "definition": "Expressed clearly; easy to understand.",
+        "hindi_meaning": "स्पष्ट / सुबोध",
+        "date": "2026-06-30"
+    },
+    {
+        "word": "Magnanimous",
+        "part_of_speech": "adjective",
+        "definition": "Generous or forgiving.",
+        "hindi_meaning": "उदार",
+        "date": "2026-07-01"
+    },
+    {
+        "word": "Malevolent",
+        "part_of_speech": "adjective",
+        "definition": "Having or showing a wish to do evil to others.",
+        "hindi_meaning": "द्रोहपूर्ण / बुरा चाहने वाला",
+        "date": "2026-07-02"
+    },
+    {
+        "word": "Malleable",
+        "part_of_speech": "adjective",
+        "definition": "Able to be hammered or pressed permanently out of shape; flexible.",
+        "hindi_meaning": "लचीला / आघातवर्धनीय",
+        "date": "2026-07-03"
+    },
+    {
+        "word": "Maudlin",
+        "part_of_speech": "adjective",
+        "definition": "Self-pityingly or tearfully sentimental.",
+        "hindi_meaning": "भावुक / रोनी सूरत वाला",
+        "date": "2026-07-04"
+    },
+    {
+        "word": "Maverick",
+        "part_of_speech": "noun",
+        "definition": "An unorthodox or independent-minded person.",
+        "hindi_meaning": "स्वतंत्र विचारों वाला",
+        "date": "2026-07-05"
+    },
+    {
+        "word": "Mendacious",
+        "part_of_speech": "adjective",
+        "definition": "Not telling the truth; lying.",
+        "hindi_meaning": "झूठा / मिथ्यावादी",
+        "date": "2026-07-06"
+    },
+    {
+        "word": "Mitigate",
+        "part_of_speech": "verb",
+        "definition": "Make less severe, serious, or painful.",
+        "hindi_meaning": "कम करना / शांत करना",
+        "date": "2026-07-07"
+    },
+    {
+        "word": "Mollify",
+        "part_of_speech": "verb",
+        "definition": "Appease the anger or anxiety of someone.",
+        "hindi_meaning": "शांत करना / नरम करना",
+        "date": "2026-07-08"
+    },
+    {
+        "word": "Morose",
+        "part_of_speech": "adjective",
+        "definition": "Sullen and ill-tempered.",
+        "hindi_meaning": "उदास / चिड़चिड़ा",
+        "date": "2026-07-09"
+    },
+    {
+        "word": "Mundane",
+        "part_of_speech": "adjective",
+        "definition": "Lacking interest or excitement; dull.",
+        "hindi_meaning": "साधारण / सांसारिक",
+        "date": "2026-07-10"
+    },
+    {
+        "word": "Munificent",
+        "part_of_speech": "adjective",
+        "definition": "Larger or more generous than usual.",
+        "hindi_meaning": "अत्यधिक उदार / दानी",
+        "date": "2026-07-11"
+    },
+    {
+        "word": "Myopic",
+        "part_of_speech": "adjective",
+        "definition": "Nearsighted; lacking imagination.",
+        "hindi_meaning": "अदूरदर्शी",
+        "date": "2026-07-12"
+    },
+    {
+        "word": "Nadir",
+        "part_of_speech": "noun",
+        "definition": "The lowest point in the fortunes of a person.",
+        "hindi_meaning": "पतन / अधोबिंदु",
+        "date": "2026-07-13"
+    },
+    {
+        "word": "Naïve",
+        "part_of_speech": "adjective",
+        "definition": "Showing a lack of experience or judgment.",
+        "hindi_meaning": "सीधा / अनुभवहीन",
+        "date": "2026-07-14"
+    },
+    {
+        "word": "Nebulous",
+        "part_of_speech": "adjective",
+        "definition": "Hazy, vague, or uncertain.",
+        "hindi_meaning": "अस्पष्ट / धुंधला",
+        "date": "2026-07-15"
+    },
+    {
+        "word": "Nefarious",
+        "part_of_speech": "adjective",
+        "definition": "Wicked or criminal.",
+        "hindi_meaning": "कुटिल / अपराधी",
+        "date": "2026-07-16"
+    },
+    {
+        "word": "Negligent",
+        "part_of_speech": "adjective",
+        "definition": "Failing to take proper care.",
+        "hindi_meaning": "लापरवाह",
+        "date": "2026-07-17"
+    },
+    {
+        "word": "Neophyte",
+        "part_of_speech": "noun",
+        "definition": "A person who is new to a subject or skill.",
+        "hindi_meaning": "नौसिखिया",
+        "date": "2026-07-18"
+    },
+    {
+        "word": "Noxious",
+        "part_of_speech": "adjective",
+        "definition": "Harmful, poisonous, or very unpleasant.",
+        "hindi_meaning": "हानिकारक / विषैला",
+        "date": "2026-07-19"
+    },
+    {
+        "word": "Nuance",
+        "part_of_speech": "noun",
+        "definition": "A subtle difference in meaning or expression.",
+        "hindi_meaning": "सूक्ष्म अंतर",
+        "date": "2026-07-20"
+    },
+    {
+        "word": "Obdurate",
+        "part_of_speech": "adjective",
+        "definition": "Stubbornly refusing to change one's opinion.",
+        "hindi_meaning": "जिद्दी / कठोर",
+        "date": "2026-07-21"
+    },
+    {
+        "word": "Obfuscate",
+        "part_of_speech": "verb",
+        "definition": "Render obscure, unclear, or unintelligible.",
+        "hindi_meaning": "अस्पष्ट करना / भ्रमित करना",
+        "date": "2026-07-22"
+    },
+    {
+        "word": "Oblivion",
+        "part_of_speech": "noun",
+        "definition": "The state of being unaware of what is happening.",
+        "hindi_meaning": "विस्मृति / गुमनामी",
+        "date": "2026-07-23"
+    },
+    {
+        "word": "Obsequious",
+        "part_of_speech": "adjective",
+        "definition": "Obedient or attentive to an excessive degree.",
+        "hindi_meaning": "चापलूस / आज्ञाकारी",
+        "date": "2026-07-24"
+    },
+    {
+        "word": "Obsolete",
+        "part_of_speech": "adjective",
+        "definition": "No longer produced or used; out of date.",
+        "hindi_meaning": "अप्रचलित",
+        "date": "2026-07-25"
+    },
+    {
+        "word": "Obstinate",
+        "part_of_speech": "adjective",
+        "definition": "Stubbornly refusing to change one's chosen course of action.",
+        "hindi_meaning": "जिद्दी",
+        "date": "2026-07-26"
+    },
+    {
+        "word": "Obviate",
+        "part_of_speech": "verb",
+        "definition": "Remove a need or difficulty.",
+        "hindi_meaning": "निवारण करना / दूर करना",
+        "date": "2026-07-27"
+    },
+    {
+        "word": "Ominous",
+        "part_of_speech": "adjective",
+        "definition": "Giving the impression that something bad is going to happen.",
+        "hindi_meaning": "अशुभ",
+        "date": "2026-07-28"
+    },
+    {
+        "word": "Opaque",
+        "part_of_speech": "adjective",
+        "definition": "Not able to be seen through; not transparent.",
+        "hindi_meaning": "अपारदर्शी",
+        "date": "2026-07-29"
+    },
+    {
+        "word": "Opprobrium",
+        "part_of_speech": "noun",
+        "definition": "Harsh criticism or censure.",
+        "hindi_meaning": "तिरस्कार / अपमान",
+        "date": "2026-07-30"
+    },
+    {
+        "word": "Opulence",
+        "part_of_speech": "noun",
+        "definition": "Great wealth or luxuriousness.",
+        "hindi_meaning": "वैभव / समृद्धि",
+        "date": "2026-07-31"
+    },
+    {
+        "word": "Ostentatious",
+        "part_of_speech": "adjective",
+        "definition": "Designed to impress or attract notice; showy.",
+        "hindi_meaning": "दिखावटी / आडंबरपूर्ण",
+        "date": "2026-08-01"
+    },
+    {
+        "word": "Palliate",
+        "part_of_speech": "verb",
+        "definition": "Make a disease or its symptoms less severe without removing the cause.",
+        "hindi_meaning": "कम करना / हल्का करना",
+        "date": "2026-08-02"
+    },
+    {
+        "word": "Panacea",
+        "part_of_speech": "noun",
+        "definition": "A solution or remedy for all difficulties or diseases.",
+        "hindi_meaning": "रामबाण",
+        "date": "2026-08-03"
+    },
+    {
+        "word": "Paradigm",
+        "part_of_speech": "noun",
+        "definition": "A typical example or pattern of something; a model.",
+        "hindi_meaning": "उदाहरण / आदर्श",
+        "date": "2026-08-04"
+    },
+    {
+        "word": "Paradox",
+        "part_of_speech": "noun",
+        "definition": "A self-contradictory statement that may prove to be true.",
+        "hindi_meaning": "विरोधाभास",
+        "date": "2026-08-05"
+    },
+    {
+        "word": "Paragon",
+        "part_of_speech": "noun",
+        "definition": "A person or thing viewed as a model of excellence.",
+        "hindi_meaning": "आदर्श / मिसाल",
+        "date": "2026-08-06"
+    },
+    {
+        "word": "Pariah",
+        "part_of_speech": "noun",
+        "definition": "An outcast.",
+        "hindi_meaning": "बहिष्कृत व्यक्ति",
+        "date": "2026-08-07"
+    },
+    {
+        "word": "Parsimonious",
+        "part_of_speech": "adjective",
+        "definition": "Unwilling to spend money or use resources; stingy.",
+        "hindi_meaning": "कंजूस / किफायती",
+        "date": "2026-08-08"
+    },
+    {
+        "word": "Paucity",
+        "part_of_speech": "noun",
+        "definition": "Small or insufficient quantities; scarcity.",
+        "hindi_meaning": "कमी",
+        "date": "2026-08-09"
+    },
+    {
+        "word": "Peccadillo",
+        "part_of_speech": "noun",
+        "definition": "A small, relatively unimportant offense.",
+        "hindi_meaning": "छोटी भूल",
+        "date": "2026-08-10"
+    },
+    {
+        "word": "Pedantic",
+        "part_of_speech": "adjective",
+        "definition": "Excessively concerned with minor details or rules.",
+        "hindi_meaning": "पांडित्य दिखाने वाला",
+        "date": "2026-08-11"
+    },
+    {
+        "word": "Pellucid",
+        "part_of_speech": "adjective",
+        "definition": "Translucently clear.",
+        "hindi_meaning": "निर्मल / स्पष्ट",
+        "date": "2026-08-12"
+    },
+    {
+        "word": "Penchant",
+        "part_of_speech": "noun",
+        "definition": "A strong or habitual liking for something.",
+        "hindi_meaning": "झुकाव / विशेष रुचि",
+        "date": "2026-08-13"
+    },
+    {
+        "word": "Penitent",
+        "part_of_speech": "adjective",
+        "definition": "Feeling or showing regret for having done something wrong.",
+        "hindi_meaning": "पछतावा करने वाला",
+        "date": "2026-08-14"
+    },
+    {
+        "word": "Pensive",
+        "part_of_speech": "adjective",
+        "definition": "Engaged in deep or serious thought.",
+        "hindi_meaning": "विचारमग्न",
+        "date": "2026-08-15"
+    },
+    {
+        "word": "Perfunctory",
+        "part_of_speech": "adjective",
+        "definition": "Carried out with a minimum of effort or reflection.",
+        "hindi_meaning": "सरसरी / लापरवाह",
+        "date": "2026-08-16"
+    },
+    {
+        "word": "Permeate",
+        "part_of_speech": "verb",
+        "definition": "Spread throughout (something); pervade.",
+        "hindi_meaning": "व्याप्त होना",
+        "date": "2026-08-17"
+    },
+    {
+        "word": "Pervasive",
+        "part_of_speech": "adjective",
+        "definition": "Spreading widely throughout an area.",
+        "hindi_meaning": "व्यापक",
+        "date": "2026-08-18"
+    },
+    {
+        "word": "Philanthropy",
+        "part_of_speech": "noun",
+        "definition": "The desire to promote the welfare of others.",
+        "hindi_meaning": "परोपकार",
+        "date": "2026-08-19"
+    },
+    {
+        "word": "Pious",
+        "part_of_speech": "adjective",
+        "definition": "Devoutly religious.",
+        "hindi_meaning": "धर्मपरायण / पवित्र",
+        "date": "2026-08-20"
+    },
+    {
+        "word": "Placid",
+        "part_of_speech": "adjective",
+        "definition": "Not easily upset or excited; calm.",
+        "hindi_meaning": "शांत",
+        "date": "2026-08-21"
+    },
+    {
+        "word": "Plethora",
+        "part_of_speech": "noun",
+        "definition": "A large or excessive amount of something.",
+        "hindi_meaning": "प्रचुरता / अधिकता",
+        "date": "2026-08-22"
+    },
+    {
+        "word": "Precarious",
+        "part_of_speech": "adjective",
+        "definition": "Not securely held; dangerously likely to fall.",
+        "hindi_meaning": "अनिश्चित / खतरनाक",
+        "date": "2026-08-23"
+    },
+    {
+        "word": "Precipice",
+        "part_of_speech": "noun",
+        "definition": "A very steep rock face or cliff.",
+        "hindi_meaning": "खड़ी चट्टान",
+        "date": "2026-08-24"
+    },
+    {
+        "word": "Precocious",
+        "part_of_speech": "adjective",
+        "definition": "Developing certain abilities earlier than usual.",
+        "hindi_meaning": "अकालप्रौढ़ / तेज बुद्धि वाला",
+        "date": "2026-08-25"
+    },
+    {
+        "word": "Precursor",
+        "part_of_speech": "noun",
+        "definition": "A person or thing that comes before another; forerunner.",
+        "hindi_meaning": "अग्रदूत",
+        "date": "2026-08-26"
+    },
+    {
+        "word": "Predilection",
+        "part_of_speech": "noun",
+        "definition": "A preference or special liking for something.",
+        "hindi_meaning": "पसंद / झुकाव",
+        "date": "2026-08-27"
+    },
+    {
+        "word": "Pretentious",
+        "part_of_speech": "adjective",
+        "definition": "Attempting to impress by affecting greater importance than possessed.",
+        "hindi_meaning": "दिखावटी",
+        "date": "2026-08-28"
+    },
+    {
+        "word": "Prevalent",
+        "part_of_speech": "adjective",
+        "definition": "Widespread in a particular area at a particular time.",
+        "hindi_meaning": "प्रचलित",
+        "date": "2026-08-29"
+    },
+    {
+        "word": "Pristine",
+        "part_of_speech": "adjective",
+        "definition": "In its original condition; unspoiled.",
+        "hindi_meaning": "मौलिक / नया",
+        "date": "2026-08-30"
+    },
+    {
+        "word": "Probity",
+        "part_of_speech": "noun",
+        "definition": "The quality of having strong moral principles; honesty.",
+        "hindi_meaning": "ईमानदारी",
+        "date": "2026-08-31"
+    },
+    {
+        "word": "Proclivity",
+        "part_of_speech": "noun",
+        "definition": "A tendency to choose or do something regularly.",
+        "hindi_meaning": "झुकाव",
+        "date": "2026-09-01"
+    },
+    {
+        "word": "Procrastinate",
+        "part_of_speech": "verb",
+        "definition": "Delay or postpone action; put off doing something.",
+        "hindi_meaning": "टालमटोल करना",
+        "date": "2026-09-02"
+    },
+    {
+        "word": "Prodigal",
+        "part_of_speech": "adjective",
+        "definition": "Spending money or resources freely and recklessly.",
+        "hindi_meaning": "फिजूलखर्च",
+        "date": "2026-09-03"
+    },
+    {
+        "word": "Prodigious",
+        "part_of_speech": "adjective",
+        "definition": "Remarkably or impressively great in extent or size.",
+        "hindi_meaning": "अद्भुत / विशाल",
+        "date": "2026-09-04"
+    },
+    {
+        "word": "Profound",
+        "part_of_speech": "adjective",
+        "definition": "Very great or intense.",
+        "hindi_meaning": "गहरा / गहन",
+        "date": "2026-09-05"
+    },
+    {
+        "word": "Prolific",
+        "part_of_speech": "adjective",
+        "definition": "Producing much fruit or many works.",
+        "hindi_meaning": "फलदायक / बहुप्रज",
+        "date": "2026-09-06"
+    },
+    {
+        "word": "Propensity",
+        "part_of_speech": "noun",
+        "definition": "An inclination or natural tendency to behave in a particular way.",
+        "hindi_meaning": "प्रवृत्ति / झुकाव",
+        "date": "2026-09-07"
+    },
+    {
+        "word": "Propitious",
+        "part_of_speech": "adjective",
+        "definition": "Giving or indicating a good chance of success; favorable.",
+        "hindi_meaning": "मंगलकारी / अनुकूल",
+        "date": "2026-09-08"
+    },
+    {
+        "word": "Prosaic",
+        "part_of_speech": "adjective",
+        "definition": "Lacking poetic beauty; dull.",
+        "hindi_meaning": "साधारण / नीरस",
+        "date": "2026-09-09"
+    },
+    {
+        "word": "Prosperity",
+        "part_of_speech": "noun",
+        "definition": "The state of being prosperous; wealth.",
+        "hindi_meaning": "समृद्धि",
+        "date": "2026-09-10"
+    },
+    {
+        "word": "Provocative",
+        "part_of_speech": "adjective",
+        "definition": "Causing annoyance or a strong reaction.",
+        "hindi_meaning": "उत्तेजक",
+        "date": "2026-09-11"
+    },
+    {
+        "word": "Prudence",
+        "part_of_speech": "noun",
+        "definition": "The quality of being cautious; cautiousness.",
+        "hindi_meaning": "विवेक / सावधानी",
+        "date": "2026-09-12"
+    },
+    {
+        "word": "Puerile",
+        "part_of_speech": "adjective",
+        "definition": "Childishly silly and trivial.",
+        "hindi_meaning": "बचकानी / तुच्छ",
+        "date": "2026-09-13"
+    },
+    {
+        "word": "Pugnacious",
+        "part_of_speech": "adjective",
+        "definition": "Eager or quick to argue or fight.",
+        "hindi_meaning": "झगड़ालू",
+        "date": "2026-09-14"
+    },
+    {
+        "word": "Punctilious",
+        "part_of_speech": "adjective",
+        "definition": "Showing great attention to detail or correct behavior.",
+        "hindi_meaning": "अति सावधान / समयनिष्ठ",
+        "date": "2026-09-15"
+    },
+    {
+        "word": "Pungent",
+        "part_of_speech": "adjective",
+        "definition": "Having a sharply strong taste or smell.",
+        "hindi_meaning": "तीखा / कटु",
+        "date": "2026-09-16"
+    },
+    {
+        "word": "Quaint",
+        "part_of_speech": "adjective",
+        "definition": "Attractively unusual or old-fashioned.",
+        "hindi_meaning": "पुराना / विचित्र",
+        "date": "2026-09-17"
+    },
+    {
+        "word": "Querulous",
+        "part_of_speech": "adjective",
+        "definition": "Complaining in a petulant or whining manner.",
+        "hindi_meaning": "शिकायती",
+        "date": "2026-09-18"
+    },
+    {
+        "word": "Quiescent",
+        "part_of_speech": "adjective",
+        "definition": "In a state of inactivity or dormancy.",
+        "hindi_meaning": "शांत / मौन",
+        "date": "2026-09-19"
+    },
+    {
+        "word": "Quixotic",
+        "part_of_speech": "adjective",
+        "definition": "Idealistic; unrealistic and impractical.",
+        "hindi_meaning": "अव्यावहारिक / विलक्षण",
+        "date": "2026-09-20"
+    },
+    {
+        "word": "Rancor",
+        "part_of_speech": "noun",
+        "definition": "Bitterness or resentfulness.",
+        "hindi_meaning": "शत्रुता / विद्वेष",
+        "date": "2026-09-21"
+    },
+    {
+        "word": "Rebuff",
+        "part_of_speech": "verb",
+        "definition": "Reject someone or something in an abrupt manner.",
+        "hindi_meaning": "अस्वीकार करना",
+        "date": "2026-09-22"
+    },
+    {
+        "word": "Recalcitrant",
+        "part_of_speech": "adjective",
+        "definition": "Obstinately uncooperative toward authority.",
+        "hindi_meaning": "आज्ञा न मानने वाला",
+        "date": "2026-09-23"
+    },
+    {
+        "word": "Recant",
+        "part_of_speech": "verb",
+        "definition": "Say that one no longer holds a belief.",
+        "hindi_meaning": "त्यागना / खंडन करना",
+        "date": "2026-09-24"
+    },
+    {
+        "word": "Recluse",
+        "part_of_speech": "noun",
+        "definition": "A person who lives a solitary life and avoids people.",
+        "hindi_meaning": "वैरागी / एकांतवासी",
+        "date": "2026-09-25"
+    },
+    {
+        "word": "Recondite",
+        "part_of_speech": "adjective",
+        "definition": "Little known; abstruse.",
+        "hindi_meaning": "गूढ़ / अस्पष्ट",
+        "date": "2026-09-26"
+    },
+    {
+        "word": "Redoubtable",
+        "part_of_speech": "adjective",
+        "definition": "Formidable, especially as an opponent.",
+        "hindi_meaning": "दुर्जेय / भयानक",
+        "date": "2026-09-27"
+    },
+    {
+        "word": "Refute",
+        "part_of_speech": "verb",
+        "definition": "Prove a statement to be wrong; disprove.",
+        "hindi_meaning": "खंडन करना",
+        "date": "2026-09-28"
+    },
+    {
+        "word": "Reiterate",
+        "part_of_speech": "verb",
+        "definition": "Say something again for emphasis or clarity.",
+        "hindi_meaning": "दोहराना",
+        "date": "2026-09-29"
+    },
+    {
+        "word": "Renovate",
+        "part_of_speech": "verb",
+        "definition": "Restore something old to a good state of repair.",
+        "hindi_meaning": "नवीनीकरण करना",
+        "date": "2026-09-30"
+    },
+    {
+        "word": "Reprehensible",
+        "part_of_speech": "adjective",
+        "definition": "Deserving censure or condemnation.",
+        "hindi_meaning": "निंदनीय",
+        "date": "2026-10-01"
+    },
+    {
+        "word": "Repudiate",
+        "part_of_speech": "verb",
+        "definition": "Refuse to accept or be associated with.",
+        "hindi_meaning": "अस्वीकार करना",
+        "date": "2026-10-02"
+    },
+    {
+        "word": "Reticent",
+        "part_of_speech": "adjective",
+        "definition": "Not revealing one's thoughts or feelings readily.",
+        "hindi_meaning": "चुप रहने वाला / अल्पभाषी",
+        "date": "2026-10-03"
+    },
+    {
+        "word": "Reverence",
+        "part_of_speech": "noun",
+        "definition": "Deep respect for someone or something.",
+        "hindi_meaning": "आदर / श्रद्धा",
+        "date": "2026-10-04"
+    },
+    {
+        "word": "Rhetoric",
+        "part_of_speech": "noun",
+        "definition": "The art of effective or persuasive speaking.",
+        "hindi_meaning": "अलंकार / बयानबाजी",
+        "date": "2026-10-05"
+    },
+    {
+        "word": "Saccharine",
+        "part_of_speech": "adjective",
+        "definition": "Excessively sweet or sentimental.",
+        "hindi_meaning": "अति मीठा / भावुक",
+        "date": "2026-10-06"
+    },
+    {
+        "word": "Sacrosanct",
+        "part_of_speech": "adjective",
+        "definition": "Regarded as too important to be interfered with.",
+        "hindi_meaning": "अति पवित्र",
+        "date": "2026-10-07"
+    },
+    {
+        "word": "Sagacious",
+        "part_of_speech": "adjective",
+        "definition": "Having keen mental discernment and good judgment.",
+        "hindi_meaning": "चतुर / बुद्धिमान",
+        "date": "2026-10-08"
+    },
+    {
+        "word": "Salient",
+        "part_of_speech": "adjective",
+        "definition": "Most noticeable or important.",
+        "hindi_meaning": "प्रमुख / मुख्य",
+        "date": "2026-10-09"
+    },
+    {
+        "word": "Sanctimonious",
+        "part_of_speech": "adjective",
+        "definition": "Making a show of being morally superior.",
+        "hindi_meaning": "ढोंगी / पाखंडी",
+        "date": "2026-10-10"
+    },
+    {
+        "word": "Satiate",
+        "part_of_speech": "verb",
+        "definition": "Satisfied to the full.",
+        "hindi_meaning": "तृप्त करना",
+        "date": "2026-10-11"
+    },
+    {
+        "word": "Scrutinize",
+        "part_of_speech": "verb",
+        "definition": "Examine or inspect closely and thoroughly.",
+        "hindi_meaning": "सूक्ष्म परीक्षण करना / जांचना",
+        "date": "2026-10-12"
+    },
+    {
+        "word": "Sedentary",
+        "part_of_speech": "adjective",
+        "definition": "Tending to spend much time seated.",
+        "hindi_meaning": "सुस्त / गतिहीन",
+        "date": "2026-10-13"
+    },
+    {
+        "word": "Servile",
+        "part_of_speech": "adjective",
+        "definition": "Having or showing an excessive willingness to serve.",
+        "hindi_meaning": "दासत्व / चापलूसी भरा",
+        "date": "2026-10-14"
+    },
+    {
+        "word": "Skeptic",
+        "part_of_speech": "noun",
+        "definition": "A person inclined to question all accepted opinions.",
+        "hindi_meaning": "संदेहवादी",
+        "date": "2026-10-15"
+    },
+    {
+        "word": "Solicitous",
+        "part_of_speech": "adjective",
+        "definition": "Showing interest or concern.",
+        "hindi_meaning": "उत्सुक / चिंतित",
+        "date": "2026-10-16"
+    },
+    {
+        "word": "Soporific",
+        "part_of_speech": "adjective",
+        "definition": "Tending to induce drowsiness or sleep.",
+        "hindi_meaning": "नींद लाने वाला",
+        "date": "2026-10-17"
+    },
+    {
+        "word": "Specious",
+        "part_of_speech": "adjective",
+        "definition": "Plausible but wrong.",
+        "hindi_meaning": "भ्रामक / दिखावटी",
+        "date": "2026-10-18"
+    },
+    {
+        "word": "Sporadic",
+        "part_of_speech": "adjective",
+        "definition": "Occurring at irregular intervals.",
+        "hindi_meaning": "छिटपुट",
+        "date": "2026-10-19"
+    },
+    {
+        "word": "Spurious",
+        "part_of_speech": "adjective",
+        "definition": "Not being what it purports to be; false.",
+        "hindi_meaning": "जाली / नकली",
+        "date": "2026-10-20"
+    },
+    {
+        "word": "Stolid",
+        "part_of_speech": "adjective",
+        "definition": "Calm, dependable, and showing little emotion.",
+        "hindi_meaning": "सुस्त / बेपरवाह",
+        "date": "2026-10-21"
+    },
+    {
+        "word": "Strident",
+        "part_of_speech": "adjective",
+        "definition": "Loud and harsh; grating.",
+        "hindi_meaning": "कर्कश",
+        "date": "2026-10-22"
+    },
+    {
+        "word": "Stupefy",
+        "part_of_speech": "verb",
+        "definition": "Make someone unable to think properly.",
+        "hindi_meaning": "हैरान करना / सुन्न करना",
+        "date": "2026-10-23"
+    },
+    {
+        "word": "Subjugate",
+        "part_of_speech": "verb",
+        "definition": "Bring under domination or control.",
+        "hindi_meaning": "अधीन करना / जीतना",
+        "date": "2026-10-24"
+    },
+    {
+        "word": "Sublime",
+        "part_of_speech": "adjective",
+        "definition": "Of such excellence as to inspire great admiration.",
+        "hindi_meaning": "उत्कृष्ट / भव्य",
+        "date": "2026-10-25"
+    },
+    {
+        "word": "Succinct",
+        "part_of_speech": "adjective",
+        "definition": "Briefly and clearly expressed.",
+        "hindi_meaning": "संक्षिप्त / स्पष्ट",
+        "date": "2026-10-26"
+    },
+    {
+        "word": "Supercilious",
+        "part_of_speech": "adjective",
+        "definition": "Behaving as though one thinks one is superior to others.",
+        "hindi_meaning": "घमंडी / अभिमानी",
+        "date": "2026-10-27"
+    },
+    {
+        "word": "Superfluous",
+        "part_of_speech": "adjective",
+        "definition": "Unnecessary, especially through being more than enough.",
+        "hindi_meaning": "अनावश्यक / फ़ालतू",
+        "date": "2026-10-28"
+    },
+    {
+        "word": "Surreptitious",
+        "part_of_speech": "adjective",
+        "definition": "Kept secret, especially because it would not be approved of.",
+        "hindi_meaning": "गुप्त / चुपके से",
+        "date": "2026-10-29"
+    },
+    {
+        "word": "Sycophant",
+        "part_of_speech": "noun",
+        "definition": "A person who acts obsequiously toward someone important.",
+        "hindi_meaning": "चापलूस",
+        "date": "2026-10-30"
+    },
+    {
+        "word": "Tacit",
+        "part_of_speech": "adjective",
+        "definition": "Understood or implied without being stated.",
+        "hindi_meaning": "मौन / अंतर्निहित",
+        "date": "2026-10-31"
+    },
+    {
+        "word": "Taciturn",
+        "part_of_speech": "adjective",
+        "definition": "Reserved or uncommunicative in speech; saying little.",
+        "hindi_meaning": "अल्पभाषी",
+        "date": "2026-11-01"
+    },
+    {
+        "word": "Tantalize",
+        "part_of_speech": "verb",
+        "definition": "Torment or tease someone with the sight of something unobtainable.",
+        "hindi_meaning": "तरसाना",
+        "date": "2026-11-02"
+    },
+    {
+        "word": "Tenuous",
+        "part_of_speech": "adjective",
+        "definition": "Very weak or slight.",
+        "hindi_meaning": "पतला / तुच्छ",
+        "date": "2026-11-03"
+    },
+    {
+        "word": "Terse",
+        "part_of_speech": "adjective",
+        "definition": "Sparing in the use of words; abrupt.",
+        "hindi_meaning": "संक्षिप्त",
+        "date": "2026-11-04"
+    },
+    {
+        "word": "Timorous",
+        "part_of_speech": "adjective",
+        "definition": "Showing or suffering from nervousness or fear.",
+        "hindi_meaning": "डरपोक",
+        "date": "2026-11-05"
+    },
+    {
+        "word": "Tirade",
+        "part_of_speech": "noun",
+        "definition": "A long, angry speech of criticism or accusation.",
+        "hindi_meaning": "कड़ी निंदा",
+        "date": "2026-11-06"
+    },
+    {
+        "word": "Torpid",
+        "part_of_speech": "adjective",
+        "definition": "Mentally or physically inactive; lethargic.",
+        "hindi_meaning": "सुस्त / सुप्त",
+        "date": "2026-11-07"
+    },
+    {
+        "word": "Tractable",
+        "part_of_speech": "adjective",
+        "definition": "Easy to control or influence.",
+        "hindi_meaning": "कोमल / विनीत",
+        "date": "2026-11-08"
+    },
+    {
+        "word": "Transient",
+        "part_of_speech": "adjective",
+        "definition": "Lasting only for a short time; impermanent.",
+        "hindi_meaning": "क्षणिक / अस्थाई",
+        "date": "2026-11-09"
+    },
+    {
+        "word": "Trepidation",
+        "part_of_speech": "noun",
+        "definition": "A feeling of fear or agitation about something that may happen.",
+        "hindi_meaning": "घबराहट / भय",
+        "date": "2026-11-10"
+    },
+    {
+        "word": "Trite",
+        "part_of_speech": "adjective",
+        "definition": "Lacking originality or freshness; overused.",
+        "hindi_meaning": "घिसा-पिटा",
+        "date": "2026-11-11"
+    },
+    {
+        "word": "Truculent",
+        "part_of_speech": "adjective",
+        "definition": "Eager or quick to argue or fight.",
+        "hindi_meaning": "लड़ाकू / निर्दयी",
+        "date": "2026-11-12"
+    },
+    {
+        "word": "Ubiquitous",
+        "part_of_speech": "adjective",
+        "definition": "Present, appearing, or found everywhere.",
+        "hindi_meaning": "सर्वव्यापी",
+        "date": "2026-11-13"
+    },
+    {
+        "word": "Uncanny",
+        "part_of_speech": "adjective",
+        "definition": "Strange or mysterious, especially in an unsettling way.",
+        "hindi_meaning": "विचित्र / अलौकिक",
+        "date": "2026-11-14"
+    },
+    {
+        "word": "Unctuous",
+        "part_of_speech": "adjective",
+        "definition": "Excessively or ingratiatingly flattering; oily.",
+        "hindi_meaning": "चापलूस / चिकना",
+        "date": "2026-11-15"
+    },
+    {
+        "word": "Upbraid",
+        "part_of_speech": "verb",
+        "definition": "Find fault with (someone); scold.",
+        "hindi_meaning": "फटकारना",
+        "date": "2026-11-16"
+    },
+    {
+        "word": "Usurp",
+        "part_of_speech": "verb",
+        "definition": "Take a position of power illegally or by force.",
+        "hindi_meaning": "हड़पना",
+        "date": "2026-11-17"
+    },
+    {
+        "word": "Vacillate",
+        "part_of_speech": "verb",
+        "definition": "Alternate or waver between different opinions; be indecisive.",
+        "hindi_meaning": "हिचकिचाना / डगमगाना",
+        "date": "2026-11-18"
+    },
+    {
+        "word": "Vacuous",
+        "part_of_speech": "adjective",
+        "definition": "Having or showing a lack of thought or intelligence.",
+        "hindi_meaning": "खाली / शून्य",
+        "date": "2026-11-19"
+    },
+    {
+        "word": "Venerate",
+        "part_of_speech": "verb",
+        "definition": "Regard with great respect; revere.",
+        "hindi_meaning": "सम्मान करना",
+        "date": "2026-11-20"
+    },
+    {
+        "word": "Veracity",
+        "part_of_speech": "noun",
+        "definition": "Conformity to facts; accuracy.",
+        "hindi_meaning": "सच्चाई / सत्यता",
+        "date": "2026-11-21"
+    },
+    {
+        "word": "Verbose",
+        "part_of_speech": "adjective",
+        "definition": "Using more words than are needed.",
+        "hindi_meaning": "वाचाल / शब्दबहुल",
+        "date": "2026-11-22"
+    },
+    {
+        "word": "Vex",
+        "part_of_speech": "verb",
+        "definition": "Make someone feel annoyed, frustrated, or worried.",
+        "hindi_meaning": "परेशान करना",
+        "date": "2026-11-23"
+    },
+    {
+        "word": "Vicarious",
+        "part_of_speech": "adjective",
+        "definition": "Experienced in the imagination through the feelings of another.",
+        "hindi_meaning": "परोक्ष / प्रतिनिधिक",
+        "date": "2026-11-24"
+    },
+    {
+        "word": "Vigilant",
+        "part_of_speech": "adjective",
+        "definition": "Keeping careful watch for possible danger.",
+        "hindi_meaning": "सतर्क / जागरूक",
+        "date": "2026-11-25"
+    },
+    {
+        "word": "Vilify",
+        "part_of_speech": "verb",
+        "definition": "Speak or write about in an abusively disparaging manner.",
+        "hindi_meaning": "बदनाम करना",
+        "date": "2026-11-26"
+    },
+    {
+        "word": "Vindicate",
+        "part_of_speech": "verb",
+        "definition": "Clear someone of blame or suspicion.",
+        "hindi_meaning": "निर्दोष ठहराना / साबित करना",
+        "date": "2026-11-27"
+    },
+    {
+        "word": "Vindictive",
+        "part_of_speech": "adjective",
+        "definition": "Having or showing a strong desire for revenge.",
+        "hindi_meaning": "प्रतिशोधी",
+        "date": "2026-11-28"
+    },
+    {
+        "word": "Virtuoso",
+        "part_of_speech": "noun",
+        "definition": "A person highly skilled in music or another art.",
+        "hindi_meaning": "कलाप्रवीण व्यक्ति",
+        "date": "2026-11-29"
+    },
+    {
+        "word": "Virulent",
+        "part_of_speech": "adjective",
+        "definition": "Extremely severe or harmful in its effects.",
+        "hindi_meaning": "घातक / विषैला",
+        "date": "2026-11-30"
+    },
+    {
+        "word": "Visceral",
+        "part_of_speech": "adjective",
+        "definition": "Relating to deep inward feelings rather than intellect.",
+        "hindi_meaning": "स्वाभाविक / आंतरिक",
+        "date": "2026-12-01"
+    },
+    {
+        "word": "Vitriolic",
+        "part_of_speech": "adjective",
+        "definition": "Filled with bitter criticism or malice.",
+        "hindi_meaning": "व्यंग्यात्मक / कटु",
+        "date": "2026-12-02"
+    },
+    {
+        "word": "Vituperate",
+        "part_of_speech": "verb",
+        "definition": "Blame or insult someone in strong language.",
+        "hindi_meaning": "फटकारना / गाली देना",
+        "date": "2026-12-03"
+    },
+    {
+        "word": "Vociferous",
+        "part_of_speech": "adjective",
+        "definition": "Vehement or clamorous; outspoken.",
+        "hindi_meaning": "शोर मचाने वाला / मुखर",
+        "date": "2026-12-04"
+    },
+    {
+        "word": "Volatile",
+        "part_of_speech": "adjective",
+        "definition": "Liable to change rapidly and unpredictably.",
+        "hindi_meaning": "परिवर्तनशील / अस्थिर",
+        "date": "2026-12-05"
+    },
+    {
+        "word": "Voluble",
+        "part_of_speech": "adjective",
+        "definition": "Speaking incessantly and fluently.",
+        "hindi_meaning": "धाराप्रवाह / वाचाल",
+        "date": "2026-12-06"
+    },
+    {
+        "word": "Voracious",
+        "part_of_speech": "adjective",
+        "definition": "Wanting or devouring great quantities of food or knowledge.",
+        "hindi_meaning": "लालची / पेटू",
+        "date": "2026-12-07"
+    },
+    {
+        "word": "Wanderlust",
+        "part_of_speech": "noun",
+        "definition": "A strong desire to travel.",
+        "hindi_meaning": "यात्रा की लालसा",
+        "date": "2026-12-08"
+    },
+    {
+        "word": "Wary",
+        "part_of_speech": "adjective",
+        "definition": "Feeling or showing caution about possible dangers.",
+        "hindi_meaning": "सतर्क / सावधान",
+        "date": "2026-12-09"
+    },
+    {
+        "word": "Waver",
+        "part_of_speech": "verb",
+        "definition": "Become unsteady or unreliable; be indecisive.",
+        "hindi_meaning": "हिचकिचाना / डिगना",
+        "date": "2026-12-10"
+    },
+    {
+        "word": "Whimsical",
+        "part_of_speech": "adjective",
+        "definition": "Playfully quaint or fanciful.",
+        "hindi_meaning": "सनकी / मनमौजी",
+        "date": "2026-12-11"
+    },
+    {
+        "word": "Wily",
+        "part_of_speech": "adjective",
+        "definition": "Skilled at gaining an advantage deceitfully.",
+        "hindi_meaning": "चालाक / धूर्त",
+        "date": "2026-12-12"
+    },
+    {
+        "word": "Winsome",
+        "part_of_speech": "adjective",
+        "definition": "Attractive or appealing in appearance or character.",
+        "hindi_meaning": "आकर्षक / मनोहर",
+        "date": "2026-12-13"
+    },
+    {
+        "word": "Wizened",
+        "part_of_speech": "adjective",
+        "definition": "Shriveled or wrinkled with age.",
+        "hindi_meaning": "मुरझाया हुआ",
+        "date": "2026-12-14"
+    },
+    {
+        "word": "Wrath",
+        "part_of_speech": "noun",
+        "definition": "Extreme anger.",
+        "hindi_meaning": "क्रोध",
+        "date": "2026-12-15"
+    },
+    {
+        "word": "Zealot",
+        "part_of_speech": "noun",
+        "definition": "A person who is fanatical and uncompromising.",
+        "hindi_meaning": "कट्टरपंथी",
+        "date": "2026-12-16"
+    },
+    {
+        "word": "Acquiesce",
+        "part_of_speech": "verb",
+        "definition": "Accept something reluctantly but without protest.",
+        "hindi_meaning": "चुपचाप स्वीकार करना",
+        "date": "2026-12-17"
+    },
+    {
+        "word": "Adroit",
+        "part_of_speech": "adjective",
+        "definition": "Clever or skillful in using the hands or mind.",
+        "hindi_meaning": "निपुण / चतुर",
+        "date": "2026-12-18"
+    },
+    {
+        "word": "Affable",
+        "part_of_speech": "adjective",
+        "definition": "Friendly, good-natured, or easy to talk to.",
+        "hindi_meaning": "मिलनसार / सुशील",
+        "date": "2026-12-19"
+    },
+    {
+        "word": "Ambivalent",
+        "part_of_speech": "adjective",
+        "definition": "Having mixed feelings or contradictory ideas about something.",
+        "hindi_meaning": "दुविधापूर्ण / उभयभावी",
+        "date": "2026-12-20"
+    },
+    {
+        "word": "Amicable",
+        "part_of_speech": "adjective",
+        "definition": "Having a spirit of friendliness.",
+        "hindi_meaning": "मैत्रीपूर्ण",
+        "date": "2026-12-21"
+    },
+    {
+        "word": "Anomalous",
+        "part_of_speech": "adjective",
+        "definition": "Deviating from what is standard, normal, or expected.",
+        "hindi_meaning": "असंगत / असामान्य",
+        "date": "2026-12-22"
+    },
+    {
+        "word": "Apathetic",
+        "part_of_speech": "adjective",
+        "definition": "Showing or feeling no interest, enthusiasm, or concern.",
+        "hindi_meaning": "उदासीन",
+        "date": "2026-12-23"
+    },
+    {
+        "word": "Arid",
+        "part_of_speech": "adjective",
+        "definition": "Having little or no rain; too dry or barren.",
+        "hindi_meaning": "बंजर / शुष्क",
+        "date": "2026-12-24"
+    },
+    {
+        "word": "Articulate",
+        "part_of_speech": "adjective",
+        "definition": "Having or showing the ability to speak fluently and coherently.",
+        "hindi_meaning": "स्पष्ट / सुवक्ता",
+        "date": "2026-12-25"
+    },
+    {
+        "word": "Aspire",
+        "part_of_speech": "verb",
+        "definition": "Direct one's hopes or ambitions toward achieving something.",
+        "hindi_meaning": "आकांक्षा करना",
+        "date": "2026-12-26"
+    },
+    {
+        "word": "Astute",
+        "part_of_speech": "adjective",
+        "definition": "Having or showing an ability to accurately assess situations.",
+        "hindi_meaning": "चतुर / सयाना",
+        "date": "2026-12-27"
+    },
+    {
+        "word": "Audacious",
+        "part_of_speech": "adjective",
+        "definition": "Showing a willingness to take surprisingly bold risks.",
+        "hindi_meaning": "साहसी / ढीठ",
+        "date": "2026-12-28"
+    },
+    {
+        "word": "Auspicious",
+        "part_of_speech": "adjective",
+        "definition": "Conducive to success; favorable.",
+        "hindi_meaning": "शुभ / मंगलमय",
+        "date": "2026-12-29"
+    },
+    {
+        "word": "Austere",
+        "part_of_speech": "adjective",
+        "definition": "Severe or strict in manner, attitude, or appearance.",
+        "hindi_meaning": "कठोर / सीधा-सादा",
+        "date": "2026-12-30"
+    },
+    {
+        "word": "Axiom",
+        "part_of_speech": "noun",
+        "definition": "A statement which is regarded as being self-evidently true.",
+        "hindi_meaning": "स्वयंसिद्ध सत्य / सिद्धांत",
+        "date": "2026-12-31"
     }
 ]
